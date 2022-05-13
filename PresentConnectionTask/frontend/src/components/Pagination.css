@@ -1,0 +1,28 @@
+ul
+{ 
+overflow-x:hidden;
+white-space:break-spaces; 
+width: 100%;
+} 
+
+li
+{ 
+display:inline; 
+padding-left: 11px;
+color: #383535;
+padding: 1px 3px;
+text-align:center;
+text-decoration:none;
+display: inline-block;
+border-bottom: 1px solid;
+font-size: 18px;
+margin: 1px 2px;
+cursor: pointer;
+}  
+li a{
+    text-decoration:none;  
+}
+
+li a:hover{
+    background-color: rgb(196, 189, 189);
+}
